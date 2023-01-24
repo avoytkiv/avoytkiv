@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of contents
 - [About](#About)
-- [](#Study projects)
+- [Study projects](#Study-projects)
 - [Certificates](#Certificates)
 
 ## Study projects

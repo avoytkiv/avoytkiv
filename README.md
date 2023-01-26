@@ -21,6 +21,10 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#About)
 - [Study projects](#Study-projects)
   - [Master of Data Sciene and Analytics](#Master-of-Data-Sciene-and-Analytics)
+- [Portfolio projects](#Portfolio-projects) 
+  - Trading strategy during closing hours on NYSE exchange;
+  - Crypto trading bot to telegram channel; 
+  - Automating workflow: scraping excel file and sending to chats;   
 - [Certificates](#Certificates)
 
 ## Study projects
@@ -28,6 +32,9 @@ In this section I will provide links to my github repositories containing code a
 ### Master of Data Sciene and Analytics
 This is 12 months master program at the University of Calgary, Canada. 
 For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
+
+## Portfolio projects
+In this section I will list projects briefly describing the technology stack used to solve cases.
 
 Code:
 Presentation:

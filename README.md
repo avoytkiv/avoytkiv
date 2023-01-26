@@ -20,10 +20,14 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of contents
 - [About](#About)
 - [Study projects](#Study-projects)
+  - [Master of Data Sciene and Analytics](#Master-of-Data-Sciene-and-Analytics)
 - [Certificates](#Certificates)
 
 ## Study projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing courses.
+### Master of Data Sciene and Analytics
+This is 12 months master program at the University of Calgary, Canada. 
+For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 
 Code:
 Presentation:

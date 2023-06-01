@@ -48,6 +48,6 @@ Status: Completed in July 2021 (please, check the certificates section below).
 - IELTS Academic (Overall Band Score 7.5 - Proficient English User (C1)) (Apr 2021)
 
 ## Contacts
-- Linkedin:
+- Linkedin: https://www.linkedin.com/in/avoytkiv/
 - E-mail: avoytkiv@gmail.com
 

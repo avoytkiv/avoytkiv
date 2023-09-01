@@ -22,9 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Study projects](#Study-projects)
   - [Master of Data Sciene and Analytics](https://github.com/avoytkiv/MDSA-UofC)
 - [Portfolio projects](#Portfolio-projects) 
-  - Trading strategy during closing hours on NYSE exchange;
-  - Crypto trading bot to telegram channel; 
-  - Automating workflow: scraping excel file and sending to chats;   
+  - Client Segmentation for targeted marketing in a credit union
 - [Certificates](#Certificates)
 
 ## Study projects

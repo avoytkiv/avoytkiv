@@ -51,6 +51,7 @@ In this section I will list projects briefly describing the technology stack use
  - Data Science and Machine Learning: pandas, numpy, scikit-kearn, keras
  - Continuous Integration: GitHub Actions, CML, AWS EC2
  - Continuous Deployment: Fast API, Heroku  
+
 `Results`: This helps the credit union make better decisions about how to reach out to different groups of clients.  
 `Status`: Completed in August 2023.
 

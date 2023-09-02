@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Andrii Voitkiv - portfolio
 ## About
-> This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics. 
+> This is a repository to showcase skills, share projects and track my progress in Data Science / Machine Learning related topics. 
 
 ## Table of contents
 - [About](#About)

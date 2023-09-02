@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Study projects](#Study-projects)
   - [Master of Data Sciene and Analytics](#Master-of-Data-Sciene-and-Analytics)
 - [Portfolio projects](#Portfolio-projects) 
-  - [Client Segmentation for targeted marketing in a credit union](#Client-Segmentation-for-targeted-marketing-in-a-credit-union)
+  - [Client Segmentation for targeted marketing in a credit union - Internship project](#Client-Segmentation-for-targeted-marketing-in-a-credit-union)
 <!--
 - [Certificates](#Certificates)
 -->

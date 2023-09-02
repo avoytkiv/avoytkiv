@@ -41,23 +41,17 @@ In this section I will list projects briefly describing the technology stack use
 
 ### Client Segmentation for targeted marketing in a credit union 
 
-Code: [go to repo...](https://github.com/avoytkiv/credit-mlops)
-<br/><br/>
-Presentation: [go to google slides...](https://docs.google.com/presentation/d/1pDSZ51ej2VtzNydxAlhoLrQY95iydV-mELwKtUmL1QI/edit?usp=sharing)
-<br/><br/>
-Description: The focus of the project was to build an end-to-end solution to make batch inference.
-<br/><br/>
+Code: [go to repo...](https://github.com/avoytkiv/credit-mlops)  
+Presentation: [go to google slides...](https://docs.google.com/presentation/d/1pDSZ51ej2VtzNydxAlhoLrQY95iydV-mELwKtUmL1QI/edit?usp=sharing)  
+Description: The focus of the project was to build an end-to-end solution to make batch inference.  
 Skills: data and model versioning, CI/CD,  
-<br/><br/>
 Tools:
  - Environment: GitHub Codespaces, devcontainer, Docker, venv, Hydra
  - Data Management: DVC (Data Version Control), AWS S3
  - Data Science and Machine Learning: pandas, numpy, scikit-kearn, keras
  - Continuous Integration: GitHub Actions, CML, AWS EC2
- - Continuous Deployment: Fast API, Heroku
-<br/><br/>
-Results: This helps the credit union make better decisions about how to reach out to different groups of clients.
-<br/><br/>
+ - Continuous Deployment: Fast API, Heroku  
+Results: This helps the credit union make better decisions about how to reach out to different groups of clients.  
 Status: Completed in August 2023.
 
 

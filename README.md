@@ -48,7 +48,7 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 `Tools`:
  - *Environment*: GitHub Codespaces, devcontainer, Docker, venv, Hydra
  - *Data Management*: DVC (Data Version Control), AWS S3
- - *DS and ML*: pandas, numpy, scikit-kearn (PCA, clustering algorithms), keras (autoencoder)
+ - *DS and ML*: scikit-kearn (PCA, clustering algorithms), keras (autoencoder)
  - *Continuous Integration*: GitHub Actions, CML, AWS EC2
  - *Continuous Deployment*: Fast API, Heroku  
 

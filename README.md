@@ -46,11 +46,11 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 `Description`: The focus of the project was to build a highly flexible and automated ML pipeline to run experiments. Then, the best model is deployed to an app by a series of automated workflows.   
 `Skills`: data and model versioning, CI/CD,  
 `Tools`:
- - Environment: GitHub Codespaces, devcontainer, Docker, venv, Hydra
- - Data Management: DVC (Data Version Control), AWS S3
- - DS and ML: pandas, numpy, scikit-kearn, keras
- - Continuous Integration: GitHub Actions, CML, AWS EC2
- - Continuous Deployment: Fast API, Heroku  
+ - *Environment*: GitHub Codespaces, devcontainer, Docker, venv, Hydra
+ - *Data Management*: DVC (Data Version Control), AWS S3
+ - *DS and ML*: pandas, numpy, scikit-kearn, keras
+ - *Continuous Integration*: GitHub Actions, CML, AWS EC2
+ - *Continuous Deployment*: Fast API, Heroku  
 
 `Results`: This helps the credit union make better decisions about how to reach out to different groups of clients.  
 `Status`: Completed in August 2023.

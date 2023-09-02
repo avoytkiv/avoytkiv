@@ -48,7 +48,7 @@ In this section I will list projects briefly describing the technology stack use
 `Tools`:
  - Environment: GitHub Codespaces, devcontainer, Docker, venv, Hydra
  - Data Management: DVC (Data Version Control), AWS S3
- - Data Science and Machine Learning: pandas, numpy, scikit-kearn, keras
+ - DS and ML: pandas, numpy, scikit-kearn, keras
  - Continuous Integration: GitHub Actions, CML, AWS EC2
  - Continuous Deployment: Fast API, Heroku  
 

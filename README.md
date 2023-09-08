@@ -43,7 +43,7 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 
 `Code`: [go to repo...](https://github.com/avoytkiv/credit-mlops)  
 `Presentation`: [go to google slides...](https://docs.google.com/presentation/d/1pDSZ51ej2VtzNydxAlhoLrQY95iydV-mELwKtUmL1QI/edit?usp=sharing)  
-`Industry`: Banking and Finance
+`Industry`: Banking and Finance  
 `Description`: The focus of the project was to build a highly flexible and automated ML pipeline to run experiments. Then, the best model is deployed to an app by a series of automated workflows.   
 `Skills in focus`: Clustering, Model selection, Data and model versioning, Experimentations, CI/CD pipelines
 `Tools`:

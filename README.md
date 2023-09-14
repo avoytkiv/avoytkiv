@@ -23,6 +23,9 @@ Here are some ideas to get you started:
   - [Master of Data Sciene and Analytics](#Master-of-Data-Sciene-and-Analytics)
 - [Portfolio projects](#Portfolio-projects) 
   - [Client Segmentation for targeted marketing in a credit union - Internship project](#Client-Segmentation-for-targeted-marketing-in-a-credit-union)
+- [Previous work](#Previous-work)
+  - [Workflow automation](https://github.com/avoytkiv/automating-workflow)
+  - [A Market-on-the-Close Approach: Research and Strategy Development](https://github.com/avoytkiv/moc_imbalance_flip)
 <!--
 - [Certificates](#Certificates)
 -->

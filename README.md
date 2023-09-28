@@ -45,7 +45,7 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 
 ### Client Segmentation for targeted marketing in a credit union 
 
-<img width="768" alt="Screenshot 2023-09-28 at 10 49 46" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/3f7c3ade-d083-4f6a-b709-2e1df0db5d12">   
+<img width="31%" alt="Screenshot 2023-09-28 at 10 49 46" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/3f7c3ade-d083-4f6a-b709-2e1df0db5d12">   
 
 `Code`: [go to repo...](https://github.com/avoytkiv/credit-mlops)  
 `Presentation`: [go to google slides...](https://docs.google.com/presentation/d/1pDSZ51ej2VtzNydxAlhoLrQY95iydV-mELwKtUmL1QI/edit?usp=sharing)  

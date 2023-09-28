@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   - [Master of Data Sciene and Analytics](#Master-of-Data-Sciene-and-Analytics)
 - [Portfolio projects](#Portfolio-projects) 
   - [Client Segmentation for targeted marketing in a credit union - Internship project](#Client-Segmentation-for-targeted-marketing-in-a-credit-union)
+  - [Predicting job salary - NLP](#Predicting-job-salary---NLP)
 - [Previous work](#Previous-work)
   - [Workflow automation](https://github.com/avoytkiv/automating-workflow)
   - [A Market-on-the-Close Approach: Research and Strategy Development](https://github.com/avoytkiv/moc_imbalance_flip)
@@ -58,6 +59,18 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 
 `Results`: This helps the credit union make better decisions about how to reach out to different groups of clients.  
 `Status`: Completed in August 2023.
+
+### Predicting job salary - NLP
+
+`Code`: [go to repo...](https://github.com/avoytkiv/credit-mlops)  
+`Description`: 
+`Skills in focus`: Regression, Tokenization, Categorical Vectorization, Neural Networks, Deployment, OOP
+`Tools`:
+ - *Environment*: GitHub Codespaces, devcontainer, conda, Azure CLI, Azure ML Studio
+ - *DS and ML*: PyTorch, scikit-learn
+
+`Results`: 
+`Status`: Completed in September 2023.
 
 
 ## Contacts

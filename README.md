@@ -62,14 +62,15 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 
 ### Predicting job salary - NLP
 
-`Code`: [go to repo...](https://github.com/avoytkiv/credit-mlops)  
-`Description`: 
-`Skills in focus`: Regression, Tokenization, Categorical Vectorization, Neural Networks, Deployment, OOP
+`Code`: [go to repo...](https://github.com/avoytkiv/credit-mlops)   
+`Description`: This is from Kaggle competition: "Adzuna wants to build a prediction engine for the salary of any UK job ad, so they can make huge improvements in the experience of users searching for jobs, and help employers and jobseekers figure out the market worth of different positions."   
+`Data`: large dataset (hundreds of thousands of records), which is mostly unstructured text, with a few structured data fields.   
+`Skills in focus`: Regression, Tokenization, Categorical Vectorization, Neural Networks, Deployment, OOP   
 `Tools`:
  - *Environment*: GitHub Codespaces, devcontainer, conda, Azure CLI, Azure ML Studio
- - *DS and ML*: PyTorch, scikit-learn
+ - *DS and ML*: PyTorch, scikit-learn   
 
-`Results`: 
+`Results`:    
 `Status`: Completed in September 2023.
 
 

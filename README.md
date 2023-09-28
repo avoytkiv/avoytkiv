@@ -74,8 +74,8 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 `Skills in focus`: Regression, Tokenization, Categorical Vectorization, Neural Networks, Deployment, OOP   
 `Tools`:
  - *Environment*: GitHub Codespaces, devcontainer, conda, Azure CLI, Azure ML Studio
- - *DS and ML*: PyTorch, scikit-learn
-   
+ - *DS and ML*: PyTorch, scikit-learn   
+
 `Status`: Completed in September 2023.   
 
 

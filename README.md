@@ -47,9 +47,6 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 
 <img width="31%" alt="Screenshot 2023-09-28 at 10 49 46" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/3f7c3ade-d083-4f6a-b709-2e1df0db5d12">   
 
-<img src="https://github.com/avoytkiv/avoytkiv/assets/74664634/3f7c3ade-d083-4f6a-b709-2e1df0db5d12" width="31%"></img>   
-
-
 `Code`: [go to repo...](https://github.com/avoytkiv/credit-mlops)  
 `Presentation`: [go to google slides...](https://docs.google.com/presentation/d/1pDSZ51ej2VtzNydxAlhoLrQY95iydV-mELwKtUmL1QI/edit?usp=sharing)  
 `Industry`: Banking and Finance   
@@ -66,6 +63,8 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 `Status`: Completed in August 2023.
 
 ### Predicting job salary
+
+<img width="31%" alt="Screenshot 2023-09-28 at 11 02 13" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/ca106b31-01c9-4f44-9893-6baa3421a202">   
 
 `Code`: [go to repo...](https://github.com/avoytkiv/credit-mlops)   
 `Description`: This is from Kaggle competition: "Adzuna wants to build a prediction engine for the salary of any UK job ad, so they can make huge improvements in the experience of users searching for jobs, and help employers and jobseekers figure out the market worth of different positions."   

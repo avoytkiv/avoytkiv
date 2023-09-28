@@ -60,7 +60,7 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 `Results`: This helps the credit union make better decisions about how to reach out to different groups of clients.  
 `Status`: Completed in August 2023.
 
-### Predicting job salary - NLP
+### Predicting job salary
 
 `Code`: [go to repo...](https://github.com/avoytkiv/credit-mlops)   
 `Description`: This is from Kaggle competition: "Adzuna wants to build a prediction engine for the salary of any UK job ad, so they can make huge improvements in the experience of users searching for jobs, and help employers and jobseekers figure out the market worth of different positions."   

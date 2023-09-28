@@ -60,7 +60,7 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
  - *Continuous Integration*: GitHub Actions, CML, AWS EC2
  - *Continuous Deployment*: Fast API, Heroku  
 
-`Results`: This helps the credit union make better decisions about how to reach out to different groups of clients.  
+`Results`: This helps the credit union make better decisions about how to reach out to different groups of clients.     
 `Status`: Completed in August 2023.
 
 ### Predicting job salary
@@ -74,7 +74,8 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 `Skills in focus`: Regression, Tokenization, Categorical Vectorization, Neural Networks, Deployment, OOP   
 `Tools`:
  - *Environment*: GitHub Codespaces, devcontainer, conda, Azure CLI, Azure ML Studio
- - *DS and ML*: PyTorch, scikit-learn       
+ - *DS and ML*: PyTorch, scikit-learn
+   
 `Status`: Completed in September 2023.   
 
 

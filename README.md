@@ -71,7 +71,7 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 `Code`: [go to repo...](https://github.com/avoytkiv/az_ml_predict_salary_nlp)   
 `Description`: This is from Kaggle competition: "Adzuna wants to build a prediction engine for the salary of any UK job ad, so they can make huge improvements in the experience of users searching for jobs, and help employers and jobseekers figure out the market worth of different positions."   
 `Data`: large dataset (hundreds of thousands of records), which is mostly unstructured text, with a few structured data fields.   
-`Skills in focus`: Regression, Tokenization, Categorical Vectorization, Neural Networks, Deployment, OOP   
+`Skills in focus`: Regression, Tokenization, Categorical Vectorization, Neural Networks, OOP, ML Pipeline (Azure CLI), Components (Azure CLI), Deployment       
 `Tools`:
  - *Environment*: GitHub Codespaces, devcontainer, conda, Azure CLI, Azure ML Studio
  - *DS and ML*: PyTorch, scikit-learn   

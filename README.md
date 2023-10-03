@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   - [Master of Data Sciene and Analytics](#Master-of-Data-Sciene-and-Analytics)
 - [Portfolio projects](#Portfolio-projects) 
   - [[MLOps] - Client Segmentation for targeted marketing in a credit union - Internship project](#Client-Segmentation-for-targeted-marketing-in-a-credit-union)
-  - [[NLP] - Predicting job salary using end-to-end Neural Network model on Azure ML](#Predicting-job-salary)
+  - [[NLP] - Predicting job salary using Neural Network model on Azure ML](#Predicting-job-salary)
 - [Previous work](#Previous-work)
   - [Workflow automation](https://github.com/avoytkiv/automating-workflow)
   - [A Market-on-the-Close Approach: Research and Strategy Development](https://github.com/avoytkiv/moc_imbalance_flip)

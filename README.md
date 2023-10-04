@@ -92,7 +92,7 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
  - *Environment*: GitHub Codespaces, devcontainer, Docker, venv
  - *Data Management*: Azure ML Datastore
  - *DS and ML*: scikit-kearn (Logistic regression)
- - *Continuous Integration*: GitHub Actions, Azure ML Job, flake8, pytest
+ - *Continuous Integration*: GitHub Actions, Azure ML Resources (Job, Compute, Environment), flake8, pytest
  - *Continuous Deployment*:  MLFlow
 
 `Results`: 

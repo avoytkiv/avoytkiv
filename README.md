@@ -95,7 +95,7 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
  - *Continuous Integration*: GitHub Actions, Azure ML Resources (Job, Compute, Environment), flake8, pytest
  - *Continuous Deployment*:  MLFlow
 
-`Results`: 
+`Results`: An automated workflow that will be triggered when a new model is registered. Once the workflow is triggered, the new registered model will be deployed to the production environment.   
 `Status`: Completed in October 2023.
 
 

@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - [Portfolio projects](#Portfolio-projects) 
   - [[MLOps] - Client Segmentation for targeted marketing in a credit union - Internship project](#Client-Segmentation-for-targeted-marketing-in-a-credit-union)
   - [[NLP] - Predicting job salary using Neural Network model on Azure ML](#Predicting-job-salary)
-  - [[MLOps] - End-to-end ML project predicting diabetes on Azure Machine Learning and GitHub Actions](#Predicting-diabetes-on-Azure-ML-and-GitHub-Actions)
+  - [[MLOps] - End-to-end ML project predicting diabetes on Azure Machine Learning and GitHub Actions](#Predicting-diabetes-on-Azure-ML-with-GitHub-Actions)
 - [Previous work](#Previous-work)
   - [Workflow automation](https://github.com/avoytkiv/automating-workflow)
   - [A Market-on-the-Close Approach: Research and Strategy Development](https://github.com/avoytkiv/moc_imbalance_flip)
@@ -79,7 +79,7 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 
 `Status`: Completed in September 2023.   
 
-### Predicting diabetes on Azure ML and GitHub Actions
+### Predicting diabetes on Azure ML with GitHub Actions
 
 <img width="31%" alt="Screenshot 2023-10-04 at 12 29 37" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/cc59ac8f-2e00-48a9-8ad8-f4e394586682">   
 

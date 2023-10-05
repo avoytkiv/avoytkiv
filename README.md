@@ -69,7 +69,7 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 <img width="31%" alt="Screenshot 2023-09-28 at 11 02 13" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/ca106b31-01c9-4f44-9893-6baa3421a202">   
 
 
-`Code`: [go to repo...](https://github.com/avoytkiv/az_ml_predict_salary_nlp)   
+`Code`: [go to repo...](https://github.com/avoytkiv/azml_predict_salary_nlp)   
 `Description`: This is from Kaggle competition: "Adzuna wants to build a prediction engine for the salary of any UK job ad, so they can make huge improvements in the experience of users searching for jobs, and help employers and jobseekers figure out the market worth of different positions."   
 `Data`: large dataset (hundreds of thousands of records), which is mostly unstructured text, with a few structured data fields.   
 `Skills in focus`: Regression, Tokenization, Categorical Vectorization, Neural Networks, OOP, ML Pipeline (Azure CLI), Components (Azure CLI), Deployment       

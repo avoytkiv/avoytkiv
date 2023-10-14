@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   - [[MLOps] - Client Segmentation for targeted marketing in a credit union - Internship project](#Client-Segmentation-for-targeted-marketing-in-a-credit-union)
   - [[NLP] - Predicting job salary using Neural Network model on Azure ML](#Predicting-job-salary)
   - [[MLOps] - End-to-end ML project predicting diabetes on Azure Machine Learning and GitHub Actions](#Predicting-diabetes-on-Azure-ML-with-GitHub-Actions)
+  - [[LLM] - Fine-Tuning LLM with SkyPilot and DVC](#Fine-Tuning-LLM-with-SkyPilot-and-DVC)
 - [Previous work](#Previous-work)
   - [Workflow automation](https://github.com/avoytkiv/automating-workflow)
   - [A Market-on-the-Close Approach: Research and Strategy Development](https://github.com/avoytkiv/moc_imbalance_flip)
@@ -96,6 +97,24 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
  - *Continuous Deployment*:  MLFlow
 
 `Results`: An automated workflow that will be triggered when a new model is registered. Once the workflow is triggered, the new registered model will be deployed to the production environment.   
+`Status`: Completed in October 2023.
+
+### Fine-Tuning-LLM-with-SkyPilot-and-DVC
+  
+
+
+`Code`: [go to repo...](https://github.com/avoytkiv/azml_finetune_llm)  
+`Industry`:    
+`Description`:   
+`Skills in focus`:  
+`Tools`:
+ - *Environment*: GitHub Codespaces, devcontainer, Docker, venv
+ - *Data Management*: 
+ - *DS and ML*: 
+ - *Continuous Integration*: 
+ - *Continuous Deployment*:  
+
+`Results`: 
 `Status`: Completed in October 2023.
 
 

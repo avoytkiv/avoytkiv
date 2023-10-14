@@ -101,18 +101,19 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 
 ### Fine-Tuning-LLM-with-SkyPilot-and-DVC
   
+<img width="31%" alt="Screenshot 2023-10-14 at 09 57 16" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/e5c3ab92-3ce5-4b24-8a15-f205c446a473">   
 
 
 `Code`: [go to repo...](https://github.com/avoytkiv/azml_finetune_llm)  
 `Industry`:    
 `Description`:   
-`Skills in focus`:  
+`Skills in focus`: Text classification, Fine-tune LLM   
 `Tools`:
- - *Environment*: GitHub Codespaces, devcontainer, Docker, venv
- - *Data Management*: 
- - *DS and ML*: 
- - *Continuous Integration*: 
- - *Continuous Deployment*:  
+ - *Environment*: GitHub Codespaces, devcontainer, Docker, venv   
+ - *Infrastructure Management*:   
+ - *DS and ML*: Transformer   
+ - *Continuous Integration*:   
+ - *Continuous Deployment*:   
 
 `Results`: 
 `Status`: Completed in October 2023.

@@ -123,7 +123,7 @@ List of courses:
  - *DS and ML*: Transformer, PyTorch   
  - *Continuous ML*: DVC, Weights and Biases   
 
-`Results`: Cost-optimized setup to run in the cloud to fine-tune LLM with continuous machine learning. 
+`Results`: Cost-optimized setup to run in the cloud to fine-tune LLM with continuous machine learning.  
 `Status`: Completed in October 2023.
 
 

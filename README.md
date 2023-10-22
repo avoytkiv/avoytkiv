@@ -100,22 +100,21 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 `Status`: Completed in October 2023.
 
 ### Fine-Tuning-LLM-with-SkyPilot-and-DVC
-  
-<img width="31%" alt="Screenshot 2023-10-14 at 09 57 16" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/e5c3ab92-3ce5-4b24-8a15-f205c446a473">   
+   
+<img width="31%" alt="Screenshot 2023-10-21 at 19 42 39" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/fcea2585-4c9b-45fc-ad27-ba410d4d66a8">   
 
 
 `Code`: [go to repo...](https://github.com/avoytkiv/azml_finetune_llm)  
 `Industry`:    
 `Description`:   
-`Skills in focus`: Text classification, Fine-tune LLM   
+`Skills in focus`: Text classification, Fine-tune LLM, Provision infrastructure, Checkpointing    
 `Tools`:
  - *Environment*: GitHub Codespaces, devcontainer, Docker, venv   
- - *Infrastructure Management*:   
- - *DS and ML*: Transformer   
- - *Continuous Integration*:   
- - *Continuous Deployment*:   
+ - *Infrastructure Management*: SkyPilot   
+ - *DS and ML*: Transformer, PyTorch   
+ - *Continuous ML*: DVC, Weights and Biases   
 
-`Results`: 
+`Results`: Cost-optimized setup to run in the cloud to fine-tune LLM with continuous machine learning. 
 `Status`: Completed in October 2023.
 
 

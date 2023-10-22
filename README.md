@@ -91,7 +91,7 @@ List of courses:
 
 ### Predicting diabetes on Azure ML with GitHub Actions
 
-<img width="31%" alt="Screenshot 2023-10-04 at 12 29 37" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/cc59ac8f-2e00-48a9-8ad8-f4e394586682">   
+<img width="31%" alt="Screenshot 2023-10-21 at 23 12 39" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/3ae7b74b-83e6-47df-a212-7ca69a7fc123">  
 
 
 `Code`: [go to repo...](https://github.com/avoytkiv/azml-github_actions-cicd)  

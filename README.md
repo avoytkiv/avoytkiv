@@ -39,10 +39,19 @@ Here are some ideas to get you started:
 
 ### Master of Data Sciene and Analytics
 This is 12 months master program at the University of Calgary, Canada. 
-For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
+For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)   
+List of courses:
+- [DATA601 - Working with Data and Visualization](DATA601/README.md)
+- [DATA602 - Statistical Data Analysis](DATA602/README.md)
+- [DATA603 - Statistical Modelling with Data](DATA603/README.md)
+- [DATA604 - Working with Data at Scale](DATA604/README.md)
+- [DATA605 - Actionable Visualization and Analytics](DATA605/README.md)
+- [DATA606 - Statistical Methods in Data Science](DATA606/README.md)
+- [DATA607 - Machine Learning](DATA607/README.md)
+- [DATA608 - Developing Big Data Applications](DATA608/README.md)
 
 
-## Portfolio projects
+## Portfolio end-to-end projects
 > In this section I will list projects briefly describing the technology stack used to solve cases.
 
 ### Client Segmentation for targeted marketing in a credit union 

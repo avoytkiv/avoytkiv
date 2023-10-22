@@ -56,7 +56,8 @@ List of courses:
 
 ### Client Segmentation for targeted marketing in a credit union 
 
-<img width="31%" alt="Screenshot 2023-10-21 at 23 26 08" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/99023f51-e0c6-4c26-8985-76630a33c060">  
+<img width="31%" alt="Screenshot 2023-10-21 at 23 46 11" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/6b75e82f-16da-4611-b81c-3c0a2d03e1f1">
+
 
 
 `Code`: [go to repo...](https://github.com/avoytkiv/credit-mlops)  

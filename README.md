@@ -110,7 +110,8 @@ List of courses:
 
 ### Fine-Tuning-LLM-with-SkyPilot-and-DVC
    
-<img width="31%" alt="Screenshot 2023-10-21 at 19 42 39" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/fcea2585-4c9b-45fc-ad27-ba410d4d66a8">   
+<img width="31%" alt="Screenshot 2023-10-21 at 23 17 08" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/fbaa4395-4d2b-4273-a5c5-8ad6c43d44e2">  
+
 
 
 `Code`: [go to repo...](https://github.com/avoytkiv/azml_finetune_llm)     

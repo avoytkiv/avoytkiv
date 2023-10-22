@@ -104,9 +104,8 @@ For more details ---> [go to repo...](https://github.com/avoytkiv/MDSA-UofC)
 <img width="31%" alt="Screenshot 2023-10-21 at 19 42 39" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/fcea2585-4c9b-45fc-ad27-ba410d4d66a8">   
 
 
-`Code`: [go to repo...](https://github.com/avoytkiv/azml_finetune_llm)  
-`Industry`:    
-`Description`:   
+`Code`: [go to repo...](https://github.com/avoytkiv/azml_finetune_llm)     
+`Description`: Fine-tune the foundational LLM for hotel reviews' sentiment classification in the cloud on GPUs.  
 `Skills in focus`: Text classification, Fine-tune LLM, Provision infrastructure, Checkpointing    
 `Tools`:
  - *Environment*: GitHub Codespaces, devcontainer, Docker, venv   

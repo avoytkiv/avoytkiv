@@ -56,8 +56,7 @@ List of courses:
 
 ### Client Segmentation for targeted marketing in a credit union 
 
-<img width="31%" alt="Screenshot 2023-10-21 at 23 46 11" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/6b75e82f-16da-4611-b81c-3c0a2d03e1f1">
-
+<img width="31%" alt="Screenshot 2023-10-21 at 23 46 11" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/6b75e82f-16da-4611-b81c-3c0a2d03e1f1">  
 
 
 `Code`: [go to repo...](https://github.com/avoytkiv/credit-mlops)  
@@ -92,7 +91,7 @@ List of courses:
 
 ### Predicting diabetes on Azure ML with GitHub Actions
 
-<img width="31%" alt="Screenshot 2023-10-21 at 23 12 39" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/3ae7b74b-83e6-47df-a212-7ca69a7fc123">  
+<img width="31%" alt="Screenshot 2023-10-21 at 23 47 36" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/59a4c85d-03b3-4642-98bb-e2f58802bdbd">  
 
 
 `Code`: [go to repo...](https://github.com/avoytkiv/azml-github_actions-cicd)  
@@ -111,8 +110,7 @@ List of courses:
 
 ### Fine-Tuning-LLM-with-SkyPilot-and-DVC
    
-<img width="31%" alt="Screenshot 2023-10-21 at 23 17 08" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/fbaa4395-4d2b-4273-a5c5-8ad6c43d44e2">  
-
+<img width="31%" alt="Screenshot 2023-10-21 at 23 48 21" src="https://github.com/avoytkiv/avoytkiv/assets/74664634/95335731-45d0-4031-bc2b-c013e3a34c8a">  
 
 
 `Code`: [go to repo...](https://github.com/avoytkiv/azml_finetune_llm)     

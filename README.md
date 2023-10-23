@@ -53,7 +53,7 @@ List of courses:
 
 
 ### Pytorch fundamentals
-`Code:` [go to repo...](https://github.com/avoytkiv/pytorch_fundamentals)
+`Code:` [go to repo...](https://github.com/avoytkiv/pytorch_fundamentals)   
 `Status:` In progress   
 
 

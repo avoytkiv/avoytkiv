@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - [About](#About)
 - [Study projects](#Study-projects)
   - [Master of Data Sciene and Analytics](#Master-of-Data-Sciene-and-Analytics)
+  - [Pytorch fundamentals](#Pytorch-fundamentals)
 - [Portfolio projects](#Portfolio-projects) 
   - [[MLOps] - Client Segmentation for targeted marketing in a credit union - Internship project](#Client-Segmentation-for-targeted-marketing-in-a-credit-union)
   - [[NLP] - Predicting job salary using Neural Network model on Azure ML](#Predicting-job-salary)
@@ -48,7 +49,12 @@ List of courses:
 - [DATA605 - Actionable Visualization and Analytics](DATA605/README.md)
 - [DATA606 - Statistical Methods in Data Science](DATA606/README.md)
 - [DATA607 - Machine Learning](DATA607/README.md)
-- [DATA608 - Developing Big Data Applications](DATA608/README.md)
+- [DATA608 - Developing Big Data Applications](DATA608/README.md)  
+
+
+### Pytorch fundamentals
+`Code:` [go to repo...](https://github.com/avoytkiv/pytorch_fundamentals)
+`Status:` In progress   
 
 
 ## Portfolio end-to-end projects

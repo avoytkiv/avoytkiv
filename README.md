@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - [Study projects](#Study-projects)
   - [Master of Data Sciene and Analytics](#Master-of-Data-Sciene-and-Analytics)
   - [Pytorch fundamentals](#Pytorch-fundamentals)
+  - [NLP Cook Dishes Project](#NLP-Cook-Dishes-Project)
 - [Portfolio end-to-end projects](#Portfolio-end-to-end-projects) 
   - [[MLOps] - Client Segmentation for targeted marketing in a credit union - Internship project](#Client-Segmentation-for-targeted-marketing-in-a-credit-union)
   - [[NLP] - Predicting job salary using Neural Network model on Azure ML](#Predicting-job-salary)
@@ -54,8 +55,13 @@ List of courses:
 
 ### Pytorch fundamentals
 `Code:` [go to repo...](https://github.com/avoytkiv/pytorch_fundamentals)   
-`Status:` In progress   
+`Status:` In progress  
 
+### NLP Cook Dishes Project 
+`Code:` [go to repo...](https://github.com/avoytkiv/nlp_cook_dishes)   
+`Description`: This project is an in-depth exploration of various NLP models with the purpose of generating text based on a dataset of recipes.    
+`Skills in focus`: N-gram Language Model, Neural Language Models (RNN-LSTM, Convolutional), Sampling strategies, Evaluating language model   
+`Status:` Completed in November 2023  
 
 ## Portfolio end-to-end projects
 > In this section I will list projects briefly describing the technology stack used to solve cases.

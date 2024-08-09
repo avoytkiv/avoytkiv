@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   - [Master of Data Sciene and Analytics](#Master-of-Data-Sciene-and-Analytics)
   - [Pytorch fundamentals](#Pytorch-fundamentals)
   - [NLP Cook Dishes Project](#NLP-Cook-Dishes-Project)
-- [Portfolio end-to-end projects](#Portfolio-end-to-end-projects) 
+- [Portfolio of end-to-end projects](#Portfolio-end-to-end-projects) 
   - [[MLOps] - Client Segmentation for targeted marketing in a credit union - Internship project](#Client-Segmentation-for-targeted-marketing-in-a-credit-union)
   - [[NLP] - Predicting job salary using Neural Network model on Azure ML](#Predicting-job-salary)
   - [[MLOps] - End-to-end ML project predicting diabetes on Azure Machine Learning and GitHub Actions](#Predicting-diabetes-on-Azure-ML-with-GitHub-Actions)
